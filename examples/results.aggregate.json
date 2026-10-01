@@ -1,0 +1,33 @@
+{
+  "schema_version": "0.1.1",
+  "synthetic": false,
+  "data_type": "aggregate_summary_of_private_local_records",
+  "event_period": "June-September 2026",
+  "conservative_interview_opportunities": 15,
+  "recorded_offer_outcomes": 2,
+  "offer_evidence": {
+    "saved_log_describes_written_offer": 1,
+    "user_reported_offer_no_written_record": 1
+  },
+  "definitions": {
+    "conservative": "Distinct employer/role opportunities, including recruiter screens; not attendance",
+    "broader": "Conservative set plus two platform hiring-manager intro-call invitations and one related-role discussion",
+    "offers": "Job-offer outcomes, not offered interview slots or accepted hires"
+  },
+  "reconciliation": {
+    "roster_rows": 21,
+    "conservative_exclusions": 7,
+    "additional_history_opportunities": 1,
+    "additional_broader_entries": 3
+  },
+  "detailed_ledger": "private_not_distributed",
+  "primary_documents_independently_authenticated": false,
+  "agent_causation_established": false,
+  "attendance_total_established": false,
+  "outcomes_reproduced_for_another_user": false,
+  "broader_opportunity_invitation_discussion_records": 18,
+  "additional_record_types": {
+    "platform_intro_call_invitations": 2,
+    "related_role_discussions": 1
+  }
+}

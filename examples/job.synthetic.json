@@ -1,0 +1,15 @@
+{
+  "synthetic": true,
+  "job_id": "demo-job-001",
+  "company": "Example Distribution",
+  "role": "Inventory Coordinator",
+  "track": "field_relevant",
+  "source": "synthetic fixture; not a real posting",
+  "location": "Example transit corridor",
+  "pay": {"minimum": 48000, "maximum": 58000, "unit": "annual", "currency": "USD", "provenance": "synthetic"},
+  "classification": "Rank using the configured tier boundaries; no field-track hard floor is assumed.",
+  "application_state": "DISCOVERED",
+  "tailored_artifact": null,
+  "unknowns": ["real posting", "user profile", "approved policy", "verified commute"],
+  "decision": "Demonstrate format only; no application, recommendation, or external action."
+}
