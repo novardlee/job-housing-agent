@@ -1,6 +1,6 @@
 # Indeed and ZipRecruiter profile builder — explicit function
 
-This function preserves the existing `JOBSITE_PROFILE_COPY_Indeed_and_ZipRecruiter.md` workflow and the canonical profile corrections. It is separate from tailoring a resume for a specific application.
+This function drafts platform profile copy from the user's confirmed profile and corrections. It is separate from tailoring a resume for a specific application.
 
 ## Build
 

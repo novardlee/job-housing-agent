@@ -58,10 +58,10 @@ Compare fictional homes along the relevant transit corridor. Record base rent, s
 
 The output is a decision aid: housing should follow the real job location and approved budget, rather than a generic cheapest-rent list.
 
-## What to show a prospective customer
-
-Optional additional draft modes: ask `profile_build` for separate platform headlines/summaries from Alex's fictional facts, then `career_evaluate` to compare a direct inventory role with an adjacent purchasing role. Neither mode changes a real profile or guarantees a career outcome. See [career evaluation](career-evaluation.md) and [profile builder](profile-builder.md).
+## Summary
 
 The corrected profile → ranked queue → correct resume → invitation detection → complete preparation → job-linked housing comparison. Show how the agent handles unknowns and user review, not only the happy path.
+
+Optional additional draft modes: ask `profile_build` for separate platform headlines/summaries from Alex's fictional facts, then `career_evaluate` to compare a direct inventory role with an adjacent purchasing role. Neither mode changes a real profile or guarantees a career outcome. See [career evaluation](career-evaluation.md) and [profile builder](profile-builder.md).
 
 To reproduce this demonstration in an assistant host, load this skill (`SKILL.md`), provide the fictional facts above, keep all external actions disabled, and ask for each mode's drafts. Exact generated wording may vary. This package does not claim that external integrations have been tested by this demonstration.

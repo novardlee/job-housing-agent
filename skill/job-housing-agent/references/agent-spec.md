@@ -2,9 +2,9 @@
 
 ## Purpose and scope
 
-A single accountable personal agent manages the linked employment and housing workflow. The user's corrected scope is their separate working project. NSTL commerce was an earlier contextual mismatch and is excluded.
+A single accountable personal agent manages the linked employment and housing workflow for one user.
 
-The public agent retains the workflow, instruction precedence, and failure lessons from the private project. Personal facts become user-provided configuration. Existing outputs support describing the project as a practiced workflow; they do not establish a portable executable or guarantee successful employment/housing.
+Personal facts come only from the user's confirmed profile and configuration. This specification does not guarantee employment or housing outcomes.
 
 ## Inputs and authority
 
@@ -39,7 +39,7 @@ On conflict: record source, old/new claim, applicable date, authority, affected 
 
 Gather recent postings from each configured source; mark coverage failures. Deduplicate company+role across all sheets/records and distinguish a known target from an applied target using actual application evidence. Keep unfinished applications actionable.
 
-Group warm inbound separately and first when present. Within the field-relevant group, pay tiers order results, not exclude them. Experience-first has its own top-of-band filter. The original user's revised policy was $25/hour for that filter, with field-track tiers scaled by 25/23 to approximately $71,700 and $58,700 annual boundaries. These are historical user settings, not universal recommendations. Copy them only when appropriate for a configured user. Unknown ceiling and unknown pay remain explicit.
+Group warm inbound separately and first when present. Within the field-relevant group, pay tiers order results, not exclude them. Experience-first has its own top-of-band filter. Floor and tier values come only from this user's configured policy; never apply example or another person's numbers. If the user changes the floor and has agreed that tiers scale with it, scale them by the same ratio. Unknown ceiling and unknown pay remain explicit.
 
 Record posted versus estimated compensation, base versus total potential, eligibility and language requirements, actual evidence of fit, and warnings. Do not invent exclusion rules when changing one parameter. Keep approved search families; new families are additions unless the user changes scope.
 
@@ -55,7 +55,7 @@ The private records describe repeated application submissions after a final Cont
 
 Scan all authorized channels and distinguish verified-empty from unavailable. Preserve unsent composers. A genuine invitation is a proposed conversation about a particular role; automated “apply” sourcing is not one. A changed invitation on a known role updates its record and may require refreshed preparation.
 
-Preparation includes at-a-glance facts, travel constraints, truthful introduction, company/role fit, STAR examples, likely questions/answers, logistics, questions to ask, closing, thank-you draft, checklist, and next event. Confirm current transport schedules when producing actual travel advice. Do not hardcode a past ferry timetable into the reusable agent.
+Preparation includes at-a-glance facts, travel constraints, truthful introduction, company/role fit, STAR examples, likely questions/answers, logistics, questions to ask, closing, thank-you draft, checklist, and next event. Confirm current transport schedules when producing actual travel advice. Do not hardcode a past transit timetable.
 
 Reply watch alerts once per new inbound message on a live thread; unchanged successful checks are quiet. Missing state blocks reliable deduplication. Baseline first runs must be explicitly recorded so an unalerted reply is not silently suppressed. Reply watch does not act toward employers or recreate whole prep documents for every message.
 
@@ -63,7 +63,7 @@ Reply watch alerts once per new inbound message on a live thread; unchanged succ
 
 Use the user's real employment destinations, transport options, confirmed income/offer, and current deadline. Compare rent plus estimated travel cost, clearly identifying estimates. Salary divided by 40 can model a landlord's 40x criterion when applicable; it is not a universal rule or approved rent budget.
 
-The private project expanded from borough-based search to job-linked rail towns. Treat the newer geography record as controlling over an older subway-only prompt. Verify actual connections before making travel claims.
+When the user widens the search geography (for example to rail towns linked to job clusters), the newer approved geography controls over older rules. Verify actual transit connections before making travel claims.
 
 Keep entire-unit, rent, fee, qualification and transit checks distinct. A masked-address lead needs a stable source listing ID and a locatable anchor, goes in a separate unverified group, and has a configurable resurfacing limit. Do not mix it with confirmed inventory. Record room/sale/ineligible/stale exclusions and why.
 

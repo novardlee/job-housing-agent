@@ -3,7 +3,9 @@
 ## 0.3.0 draft — 2026-10-29
 
 - Added `skill/job-housing-agent/`: the workflow packaged as an installable agent skill (`SKILL.md` with name/description frontmatter, mode router, hard rules, conversational intake) plus reference copies of the function contracts, corrections, demo, acceptance cases, and templates.
-- No scripts, hooks, or network calls in the skill. Behavior unchanged from 0.2.0; the repo docs remain the maintained source.
+- No scripts, hooks, or network calls in the skill.
+- Behavior deltas vs the 0.2.0 prompt: adds a privacy hard rule (never ask for passwords, MFA codes or government IDs); states that submission stays manual even on explicit request; forbids copying or exporting the skill's own files (marketplace licence terms). All other 0.2.0 rules are carried over, including the experience-first-only pay filter, the no-schedules-from-instructions rule, and the four delivery states.
+- Skill reference copies are trimmed of owner-specific context (historical pay numbers, project-history notes, private source codes). `docs/` remains the maintained source; `.gitattributes` keeps `skill/` files LF.
 
 ## 0.2.0 — 2026-10-01
 
