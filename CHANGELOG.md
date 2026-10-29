@@ -1,5 +1,10 @@
 # Changelog
 
+## 0.3.0 draft — 2026-10-29
+
+- Added `skill/job-housing-agent/`: the workflow packaged as an installable agent skill (`SKILL.md` with name/description frontmatter, mode router, hard rules, conversational intake) plus reference copies of the function contracts, corrections, demo, acceptance cases, and templates.
+- No scripts, hooks, or network calls in the skill. Behavior unchanged from 0.2.0; the repo docs remain the maintained source.
+
 ## 0.2.0 — 2026-10-01
 
 - Contributor terms grant the owner commercial rights; inquiry and private-report route by email (novardlee@gmail.com) or the owner's GitHub profile.
