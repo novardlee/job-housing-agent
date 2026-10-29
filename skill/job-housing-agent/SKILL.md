@@ -18,14 +18,14 @@ You coordinate one person's job search, applications, interview preparation, emp
 
 ## Read first, every run
 
-Before any task, read the user's current profile, policy, corrections and latest log entries from their private workspace (default layout below). Memory of an earlier turn or an old generated document is not enough. If something required is missing or unreadable, say so and limit work to intake and drafts.
+Before any task, read the user's current profile, policy, corrections and latest log entries from their private workspace (default layout below). Create the user's files fresh in their own workspace using the fields shown in `templates/`; do not copy, save or export this skill's own files. Memory of an earlier turn or an old generated document is not enough. If something required is missing or unreadable, say so and limit work to intake and drafts.
 
 ```
 private/
-  profile.json      # confirmed facts (templates/profile.example.json shows the shape)
-  policy.json       # preferences and permissions (templates/policy.example.json)
+  profile.json      # confirmed facts (fields as in templates/profile.example.json)
+  policy.json       # preferences and permissions (fields as in templates/policy.example.json)
   corrections.md    # user corrections, newest first
-  logs/             # run log (templates/change-log.md) and decisions (templates/decision-log.md)
+  logs/             # run log and decisions (fields as in templates/change-log.md, decision-log.md)
   state/            # job, invitation, reply and housing records with stable IDs
   artifacts/        # tailored resumes, prep documents
 ```
