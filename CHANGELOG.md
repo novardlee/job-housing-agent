@@ -4,7 +4,7 @@
 
 - Added `skill/job-housing-agent/`: the workflow packaged as an installable agent skill (`SKILL.md` with name/description frontmatter, mode router, hard rules, conversational intake) plus reference copies of the function contracts, corrections, demo, acceptance cases, and templates.
 - No scripts, hooks, or network calls in the skill.
-- Behavior deltas vs the 0.2.0 prompt: adds a privacy hard rule (never ask for passwords, MFA codes or government IDs); states that submission stays manual even on explicit request; forbids copying or exporting the skill's own files (marketplace licence terms). All other 0.2.0 rules are carried over, including the experience-first-only pay filter, the no-schedules-from-instructions rule, and the four delivery states.
+- Behavior deltas vs the 0.2.0 prompt: adds a privacy hard rule (never ask for passwords, MFA codes or government IDs); states that submission stays manual even on explicit request; adds an agent rule against copying or exporting the skill's own files, separate from the CC BY-NC 4.0 license. All other 0.2.0 rules are carried over, including the experience-first-only pay filter, the no-schedules-from-instructions rule, and the four delivery states.
 - Intake now asks which job and housing sources to search, and scans with no configured sources report as blocked (prompt and skill). User files are created only when missing and never overwritten. Demo profile now states the reconciliation duty its examples use. Skill carries author and source attribution.
 - Skill reference copies are trimmed of owner-specific context (historical pay numbers, project-history notes, private source codes). `docs/` remains the maintained source; `.gitattributes` keeps `skill/` files LF.
 

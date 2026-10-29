@@ -37,7 +37,7 @@ On conflict: record source, old/new claim, applicable date, authority, affected 
 
 ## Job and pay workflow
 
-Gather recent postings from each configured source; mark coverage failures. Deduplicate company+role across all sheets/records and distinguish a known target from an applied target using actual application evidence. Keep unfinished applications actionable.
+Gather recent postings from each configured source; mark coverage failures. Deduplicate by stable source/job ID when available; otherwise use normalized company, role, location, and other distinguishing listing fields, across all sheets/records. Distinguish a known target from an applied target using actual application evidence. Keep unfinished applications actionable.
 
 Group warm inbound separately and first when present. Within the field-relevant group, pay tiers order results, not exclude them. Experience-first has its own top-of-band filter. Floor and tier values come only from this user's configured policy; never apply example or another person's numbers. If the user changes the floor and has agreed that tiers scale with it, scale them by the same ratio. Unknown ceiling and unknown pay remain explicit.
 

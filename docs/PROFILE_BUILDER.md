@@ -4,7 +4,7 @@ This function preserves the existing `JOBSITE_PROFILE_COPY_Indeed_and_ZipRecruit
 
 ## Build
 
-For a new user, ask plain questions one group at a time: jobs/titles/dates/duties; education and credential status; desired work and pay preferences; commute and car access; housing needs and deadline. Build a private draft profile/policy from the answers and read it back for confirmation. Do not require manual JSON editing or infer unsupported facts. If private file access is unavailable, return a draft to save and disclose that it has not been persisted.
+For a new user, ask plain questions one group at a time: jobs/titles/dates/duties; education and credential status; desired work and pay preferences; commute and car access; housing needs and deadline; which job and housing sources to search. For an existing user whose policy lacks job or housing sources, ask for them before finishing. Build a private draft profile/policy from the answers and read it back for confirmation. Do not require manual JSON editing or infer unsupported facts. If private file access is unavailable, return a draft to save and disclose that it has not been persisted.
 
 From verified facts and the user's chosen career direction, draft platform-appropriate headline, summary, skill tags, employment entries with separate titles/dates, education, credential status, availability, location/commute preferences, and screening defaults. Relevant coursework should match the actual domain; a course is not a professional certification.
 
