@@ -33,7 +33,12 @@ See [results and counting method](docs/RESULTS.md) and the [aggregate record](ex
 
 ## Install as a skill
 
-The [`skill/job-housing-agent/`](skill/job-housing-agent/) folder packages this workflow as a single agent skill (`SKILL.md` plus reference files and templates). Copy that folder into your assistant's skills directory, or upload the zipped folder where your host accepts skills, then say **"Build my profile."** The skill starts with a conversational intake, defaults to draft-only permissions, and never submits applications or messages employers on its own.
+A ready-to-install, reviewed skill version of this workflow (`SKILL.md` plus reference files and templates) is available as a paid download. The skill starts with a conversational intake, defaults to draft-only permissions, and never submits applications or messages employers on its own.
+
+- **GitHub Sponsors:** $24.99 one-time tier, which includes access to the private skill repository. *(Link added once the Sponsors profile is approved.)*
+- **Agensi marketplace:** installs through the Agensi agent connection. *(Link added once the listing is live.)*
+
+Everything in this repository stays free for non-commercial use under CC BY-NC 4.0. You can also load `agent/SYSTEM_PROMPT.md` and `docs/` by hand.
 
 ## See the workflow
 
@@ -62,7 +67,6 @@ job-housing-agent/
   SECURITY.md
   .gitignore
   LICENSE
-  skill/job-housing-agent/SKILL.md   (installable skill; references/ and templates/ inside)
   agent/SYSTEM_PROMPT.md
   config/profile.example.json
   config/policy.example.json

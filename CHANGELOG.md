@@ -1,5 +1,9 @@
 # Changelog
 
+## 0.3.1 — 2026-10-29
+
+- Moved the installable skill package out of this public repository; it is now distributed as a paid download (GitHub Sponsors tier and the Agensi marketplace). The prompt, docs, demo and templates here remain free under CC BY-NC 4.0, and the 0.3.0 rule and documentation fixes stay in place.
+
 ## 0.3.0 draft — 2026-10-29
 
 - Added `skill/job-housing-agent/`: the workflow packaged as an installable agent skill (`SKILL.md` with name/description frontmatter, mode router, hard rules, conversational intake) plus reference copies of the function contracts, corrections, demo, acceptance cases, and templates.
