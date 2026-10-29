@@ -31,6 +31,10 @@ The owner's saved records from June–September 2026 show **15 distinct role-spe
 
 See [results and counting method](docs/RESULTS.md) and the [aggregate record](examples/results.aggregate.json). The detailed ledger stays private. This review checked local logs, not live employer messages or original letters. The user participated throughout; agent-only causation and outcomes for other users have not been established.
 
+## Install as a skill
+
+The [`skill/job-housing-agent/`](skill/job-housing-agent/) folder packages this workflow as a single agent skill (`SKILL.md` plus reference files and templates). Copy that folder into your assistant's skills directory, or upload the zipped folder where your host accepts skills, then say **"Build my profile."** The skill starts with a conversational intake, defaults to draft-only permissions, and never submits applications or messages employers on its own.
+
 ## See the workflow
 
 [Follow the fictional demonstration](docs/DEMO.md): a job queue, truthful resume guidance, an interview invitation, full preparation, and a housing comparison. It works as a draft exercise without inbox credentials. It is an example of intended outputs, not a live integration test.
@@ -58,6 +62,7 @@ job-housing-agent/
   SECURITY.md
   .gitignore
   LICENSE
+  skill/job-housing-agent/SKILL.md   (installable skill; references/ and templates/ inside)
   agent/SYSTEM_PROMPT.md
   config/profile.example.json
   config/policy.example.json
