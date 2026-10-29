@@ -4,7 +4,7 @@ This fictional walkthrough shows what the agent is designed to produce. It is a 
 
 ## 1. Give the agent a verified profile
 
-Example candidate: Alex Example has inventory and receiving experience, spreadsheet skills, a logistics diploma, and no customs certification. Alex uses public transport and wants field-relevant work. The profile is fictional.
+Example candidate: Alex Example has inventory and receiving experience, including reconciling stock counts against records, spreadsheet skills, a logistics diploma, and no customs certification. Alex uses public transport and wants field-relevant work. The profile is fictional.
 
 Example policy: field-relevant roles are ranked without a hard salary cutoff; experience-first roles need a posted top of at least $25/hour. Final applications remain Alex's decision. Notifications are drafts until authorized.
 
