@@ -49,4 +49,4 @@ Suggested first commercial experiment: show a sanitized demonstration, offer a b
 
 **Next owner decisions:** supported host, private contact method, payment channel, delivery capacity, hourly compensation target, and pilot price. These are launch decisions; this plan does not activate sales or publish the repository.
 
-After a funding destination exists, GitHub supports a repository sponsor button through `.github/FUNDING.yml`. See [GitHub's sponsor-button guide](https://docs.github.com/en/repositories/managing-your-repositorys-settings-and-features/customizing-your-repository/displaying-a-sponsor-button-in-your-repository). No funding account is configured by this package.
+The repository sponsor button is enabled through `.github/FUNDING.yml` and points to [github.com/sponsors/novardlee](https://github.com/sponsors/novardlee), which offers a $25 one-time tier for the installable skill. The skill is also sold on [Agensi](https://www.agensi.io/skills/job-housing-agent-honest-job-search-interview-prep) for $39.99.
