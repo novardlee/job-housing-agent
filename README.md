@@ -36,7 +36,7 @@ See [results and counting method](docs/RESULTS.md) and the [aggregate record](ex
 A ready-to-install, reviewed skill version of this workflow (`SKILL.md` plus reference files and templates) is available as a paid download. The skill starts with a conversational intake, defaults to draft-only permissions, and never submits applications or messages employers on its own.
 
 - **GitHub Sponsors:** $24.99 one-time tier, which includes access to the private skill repository. *(Link added once the Sponsors profile is approved.)*
-- **Agensi marketplace:** installs through the Agensi agent connection. *(Link added once the listing is live.)*
+- **Agensi marketplace:** $39.99, installs through the Agensi agent connection. Submitted and in review; it will appear on [my Agensi creator page](https://www.agensi.io/creators/novard-st-aubyn-lee) once approved.
 
 Everything in this repository stays free for non-commercial use under CC BY-NC 4.0. You can also load `agent/SYSTEM_PROMPT.md` and `docs/` by hand.
 
