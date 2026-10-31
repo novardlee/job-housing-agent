@@ -35,7 +35,7 @@ See [results and counting method](docs/RESULTS.md) and the [aggregate record](ex
 
 A ready-to-install, reviewed skill version of this workflow (`SKILL.md` plus reference files and templates) is available as a paid download. The skill starts with a conversational intake, defaults to draft-only permissions, and never submits applications or messages employers on its own.
 
-- **GitHub Sponsors:** $25 one-time tier, which includes access to the private skill repository. *(Link added once the Sponsors profile is approved.)*
+- **GitHub Sponsors:** [$25 one-time tier](https://github.com/sponsors/novardlee). You get an invite to the private skill repository within 24 hours.
 - **Agensi marketplace:** [$39.99 on Agensi](https://www.agensi.io/skills/job-housing-agent-honest-job-search-interview-prep), installs through the Agensi agent connection.
 
 Everything in this repository stays free for non-commercial use under CC BY-NC 4.0. You can also load `agent/SYSTEM_PROMPT.md` and `docs/` by hand.
@@ -98,7 +98,7 @@ Recommended private workspace: `private/profile.json`, `private/policy.json`, `p
 
 ## Sharing and supporting the project
 
-No funding destination has been set up yet, so no sponsor link is included. [Funding brief](docs/FUNDING.md) gives an honest project description and proposed next milestones.
+You can support the project through [GitHub Sponsors](https://github.com/sponsors/novardlee). [Funding brief](docs/FUNDING.md) gives an honest project description and proposed next milestones.
 
 ## License
 
