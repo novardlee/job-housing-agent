@@ -37,6 +37,9 @@ A ready-to-install, reviewed skill version of this workflow (`SKILL.md` plus ref
 
 - **GitHub Sponsors:** [$25 one-time tier](https://github.com/sponsors/novardlee). You get an invite to the private skill repository within 24 hours.
 - **Agensi marketplace:** [$39.99 on Agensi](https://www.agensi.io/skills/job-housing-agent-honest-job-search-interview-prep), installs through the Agensi agent connection.
+- **MCP Market:** [$39.99 on MCP Market](https://mcpmarket.com/tools/skills/mp-job-housing-agent-8a5005d8).
+
+**Works on PC and Mac.** The skill runs wherever your agent runs: the Claude desktop app on Windows or macOS, Claude in your web browser, Claude Code (Windows, macOS, Linux), and other agents that support `SKILL.md` skills, such as Codex and Cursor. Nothing to install on your computer beyond the agent itself.
 
 Everything in this repository stays free for non-commercial use under CC BY-NC 4.0. You can also load `agent/SYSTEM_PROMPT.md` and `docs/` by hand.
 
