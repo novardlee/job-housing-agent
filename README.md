@@ -41,6 +41,8 @@ A ready-to-install, reviewed skill version of this workflow (`SKILL.md` plus ref
 
 **Works on PC and Mac.** The skill runs wherever your agent runs: the Claude desktop app on Windows or macOS, Claude in your web browser, Claude Code (Windows, macOS, Linux), and other agents that support `SKILL.md` skills, such as Codex and Cursor. Nothing to install on your computer beyond the agent itself.
 
+**Phones and tablets (iPhone, iPad, Android):** install the skill once from a computer, then use it in the Claude app. Phones usually can't save files, so the skill gives you a short *profile card* to keep in a Claude Project; your facts come back every time without retyping.
+
 Everything in this repository stays free for non-commercial use under CC BY-NC 4.0. You can also load `agent/SYSTEM_PROMPT.md` and `docs/` by hand.
 
 ## See the workflow
